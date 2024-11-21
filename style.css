@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(50,5,5);
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+@media (min-width: 648px){
+    body{
+        background-color: aqua;
+    }
+}
